@@ -1,4 +1,5 @@
 Monte Carlo Simulation for Surface Backscattering
+
 Source code for R
 
 Monte Carlo simulation is a stochastic method computing trajectories of photons in media. Surface backscattering is performing calculations in semi-infinite media and summarizing photon flux leaving the surface. This simulation is modeling the optical measurement of diffuse reflectance using an incident light beam. The semi-infinite media is considered to have flat surface. Media, typically biological tissue, is described by four optical parameters: absorption coefficient, scattering coefficient, anisotropy factor, refractive index. The media is assumed to be homogeneous.
